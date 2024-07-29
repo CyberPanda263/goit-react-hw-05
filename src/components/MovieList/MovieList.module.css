@@ -1,0 +1,26 @@
+.link {
+  color: #f3ecec;
+  text-align: center;
+}
+
+.img {
+  margin: auto;
+  width: 100px;
+}
+
+.item {
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 180px;
+  height: 200px;
+  border: solid 2px #d3da70;
+  background-color: #1e0f0f;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}

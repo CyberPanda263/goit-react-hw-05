@@ -1,0 +1,27 @@
+.notFoundTitle {
+    font-size: 100px;
+}
+
+.notFoundText {
+    text-align: center;
+    font-size: 30px;
+}
+
+.notFoundLink {
+    margin: 0 auto;
+    text-align: center;
+    border: solid 1px black;
+    padding: 10px;
+    width: 140px;
+    border-radius: 6px;
+    background-color: #d8e521;
+    cursor: pointer;
+}   
+
+.notFoundLink:hover {
+    background-color: #b2bb2c;
+}
+
+.notFoundLinkItem {
+    color: #142d43;
+}
